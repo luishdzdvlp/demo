@@ -23,5 +23,9 @@ class ViewController: UIViewController {
     func demoTest() {
         //sin informacion
     }
+
+    func testRest() {
+        // Se sube la función para leer un servicio REST
+    }
 }
 
